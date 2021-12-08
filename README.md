@@ -1,5 +1,5 @@
 # instagram-clone
-I will create a clone the database structure of a photo sharing social network using SQL. The photo sharring social network is Instagram Clone.
+I will create a clone database structure of a photo sharing social network using SQL. The photo sharring social network is Instagram Clone.
 
 I will answers all of these questions:
 
